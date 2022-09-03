@@ -36,6 +36,10 @@ Con la herramienta montada en el manipulador y el tablero ubicado en el espacio 
 
 ## VideoSimulación:
 A continuacion podemos ver un corto video con la simulacion en Robot Studio de los movimientos del manipulador para realizar la trayectoria de escritura en el tablero.
+
 <video width="320" height="240" controls>
   <source src="./video/RobotStudioSim.mp4" type="video/mp4">
 </video>
+
+https://user-images.githubusercontent.com/71235347/188256426-ad711185-05a4-40bc-9e22-77289374c11d.mp4
+
